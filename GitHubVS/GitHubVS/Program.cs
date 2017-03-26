@@ -12,6 +12,8 @@ namespace GitHubVS
         {
             Console.WriteLine("commited by mtalhak");
             Console.WriteLine("commited by dikimevipersonel");
+            mtalhak mtk = new mtalhak();
+            Console.WriteLine("Ilk mesaj : " + mtk.ilk());
         }
     }
 }
