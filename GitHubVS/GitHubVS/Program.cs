@@ -16,7 +16,7 @@ namespace GitHubVS
             Console.WriteLine("method: " + dper.dikimevi());
             mtalhak mtk = new mtalhak();
             Console.WriteLine("Ilk mesaj : " + mtk.ilk());
-            Console.WriteLine("Awesome changes, pull request");
+            Console.WriteLine("Awesome changes, pull request + master");
         }
     }
 }
