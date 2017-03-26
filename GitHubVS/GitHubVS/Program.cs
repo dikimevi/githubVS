@@ -12,6 +12,8 @@ namespace GitHubVS
         {
             Console.WriteLine("commited by mtalhak");
             Console.WriteLine("commited by dikimevipersonel");
+            dikimevipersonel dper = new dikimevipersonel();
+            Console.WriteLine("method: " + dper.dikimevi());
         }
     }
 }
