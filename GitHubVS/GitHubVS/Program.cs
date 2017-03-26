@@ -10,6 +10,7 @@ namespace GitHubVS
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("commited by dikimevipersonel");
         }
     }
 }
